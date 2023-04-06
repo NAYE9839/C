@@ -3,7 +3,7 @@
  - 4주차 실습
 
 
-...
+```
 #include <stdio.h>
 int main()
 {
@@ -16,7 +16,7 @@ result = x / y;
 printf("%f / %f = %f", x, y, result);
 return 0;
 }
-...
+```
 
 
 
