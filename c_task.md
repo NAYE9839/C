@@ -89,7 +89,7 @@ int main()
     printf("환율을 입력하시오: ");
     scanf("%lf", &rate);
 
-    printf("원하 금액을 입력하시오: ");
+    printf("원화 금액을 입력하시오: ");
     scanf("%d", &krw);
 
     usd=krw/rate;
@@ -122,6 +122,9 @@ int main()
     return 0;
     
 }
+
+
+```
 
 
 ```
@@ -192,9 +195,10 @@ int main()
 }
 
 
-
 ```
 
+
+```
 
 
 #include <stdio.h>
@@ -300,5 +304,6 @@ int main()
         printf("a=%d b=%d c=%d d=%d\n", a, b, c, d);
         return 0;
     }
+    
     
     ```
