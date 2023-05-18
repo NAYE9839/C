@@ -1,5 +1,6 @@
 
 
+
 ```
 구구단
 #define _CRT_SECURE_NO_WARNINGS
