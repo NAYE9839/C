@@ -15,7 +15,7 @@ int main()
   scores[4]=50;
   
 
-  for(int  i=0;, i<5; i++)
+  for(i=0;, i<5; i++)
     printf("scores[%d]=%d\n", i, scores[i]);
   return 0;
 }
